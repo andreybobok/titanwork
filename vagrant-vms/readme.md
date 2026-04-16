@@ -1,0 +1,1 @@
+This repository contains hands-on practice projects for setting up and managing development environments using Vagrant. It includes multiple virtual machine configurations, provisioning examples, and environment setups for different use cases.
