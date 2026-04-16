@@ -1,0 +1,1 @@
+This repository contains my learning materials and practice work for Linux fundamentals. It includes command references, notes, and external resources used to build a solid understanding of working in a Linux environment.
