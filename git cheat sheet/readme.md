@@ -1,0 +1,1 @@
+This repository contains my notes and practice material for learning the first essential Git commands. It serves as a quick reference while building a strong foundation in version control and day-to-day Git workflows.
